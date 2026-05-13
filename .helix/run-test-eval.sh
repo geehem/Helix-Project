@@ -1,3 +1,2 @@
 #!/bin/bash
-
-echo "Tests running..."
+echo "Running tests"

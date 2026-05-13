@@ -1,4 +1,9 @@
 JSON
 {
-    "language": "python"
+  "instance_id": "handshake",
+  "task_title": "handshake",
+  "problem_statement": "",
+  "hints": "",
+  "repo": "handshake",
+  "repo_path_or_url": ""
 }
